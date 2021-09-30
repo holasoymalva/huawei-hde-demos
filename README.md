@@ -15,5 +15,6 @@
 * [HUAWEI Scan Kit](https://developer.huawei.com/consumer/en/doc/development/HMS-Plugin-Guides/introduction-0000001057136450)
 * [HUAWEI Site Kit](https://developer.huawei.com/consumer/en/doc/development/HMS-Plugin-Guides/introduction-0000001050176404)
 * [HUAWEI Game Service](https://developer.huawei.com/consumer/en/doc/development/HMS-Plugin-Guides/prep-dev-environment-0000001079816116)
+* [Huawei Developers Blog](https://medium.com/huawei-developers/tagged/react-native)
 
 
