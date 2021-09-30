@@ -1,4 +1,4 @@
-# Huawei Mobile Services in Web & React Native { HDE demos }
+# Huawei Mobile Services in Web & React Native { HDE Demos }
 
 ### Index of Services
 
