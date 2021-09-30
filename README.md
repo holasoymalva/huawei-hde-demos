@@ -2,7 +2,7 @@
 
 ### Index of Demos
 
-* [How to use Map kit in our webpage?](https://www.youtube.com/watch?v=G857LWYAavw)
+* [Usando Huawei Map Kit en Web](https://www.youtube.com/watch?v=G857LWYAavw)
 
 ### Index of Services
 
